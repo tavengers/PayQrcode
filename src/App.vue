@@ -16,14 +16,14 @@
           <t-link
             theme="primary"
             underline
-            href="https://github.com/uxiaohan/PayQrcode"
+            href="https://github.com/tavengers/pay"
             target="_blank"
           >
             PayQrcode
           </t-link>
           ，技术支持：
-          <t-link theme="primary" underline href="https://www.vvhan.com" target="_blank">
-            韩小韩博客
+          <t-link theme="primary" underline href="https://www.aioscn.com" target="_blank">
+            清源博客
           </t-link>
         </template>
       </t-alert>
